@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1047217675369",
+    "project_id": "clonelearning-1b25a",
+    "storage_bucket": "clonelearning-1b25a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1047217675369:android:70760c6ea9502d396b56f8",
+        "android_client_info": {
+          "package_name": "com.egeperk.kotlininstaclone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1047217675369-9dd099m88tbh39k7n0teq4amqe27qocd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUQGReF-zwIJuIZKVlbTUuxk6AdvjJ9tE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1047217675369-9dd099m88tbh39k7n0teq4amqe27qocd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
